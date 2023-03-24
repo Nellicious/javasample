@@ -247,7 +247,7 @@ under the License.
        <repository>
          <id>nexusdeploymentrepo</id>
          <name>your custom repo</name>
-         <url>http://34.125.253.97:8081/repository/maven-snapshots/</url>
+         <url>http://34.125.164.253:8081/repository/maven-snapshots/</url>
        </repository>
 	   
      </repositories>
@@ -258,7 +258,7 @@ under the License.
        <repository>
          <id>nexusdeploymentrepo</id>
          <name>your custom repo</name>
-         <url>http://34.125.253.97:8081/repository/maven-releases/</url>
+         <url>http://34.125.164.253:8081/repository/maven-releases/</url>
        </repository>
      </repositories>
    </profile>
